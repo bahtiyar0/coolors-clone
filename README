@@ -3,4 +3,4 @@ This is a test project for my Git repository.
 A color selection project. When you press the space bar on the page, the colors change. You can choose a color if you like it by clicking on the lock, thereby fixing the color. You can also share these colors with your friends or other people.
 
 
-<span class="badge badge-success">Success</span>
+<a href="https://codeclimate.com/github/bahtiyar0/coolors-clone/maintainability"><img src="https://api.codeclimate.com/v1/badges/fb54285f2ba0f1120e1c/maintainability" /></a>
